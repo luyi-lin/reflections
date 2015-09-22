@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
