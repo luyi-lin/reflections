@@ -1,5 +1,8 @@
-When would you want to create a remote repository rather than keeping all your work local?
+Q: When would you want to create a remote repository rather than keeping all your work local?
 
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Yes, I collaborate without them. It is convenient to use Git and GitHub. However, not everyone is able to use them. 
