@@ -6,3 +6,6 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Yes, I collaborate without them. It is convenient to use Git and GitHub. However, not everyone is able to use them. 
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When I want to try something dangerous or totally different from the master branch, I definitively want to use a separate branch. It will reduce the risk of crushing all of the master codes.
